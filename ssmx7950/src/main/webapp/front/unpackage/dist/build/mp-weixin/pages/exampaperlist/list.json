@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#CE221B",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "专题考试列表",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
